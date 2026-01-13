@@ -3,8 +3,6 @@
 
 生命不停，编程不止。
 
-![全栈开发师](https://tva1.sinaimg.cn/large/007S8ZIlly1ggms66rig8j31bi0hcgol.jpg)
-
 <!--
 **hom/hom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
